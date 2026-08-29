@@ -182,3 +182,32 @@
     border-right-color: var(--border);
   }
 }
+
+
+.button-div{
+  display :flex;
+  justify-content:center;
+  align-items:center;
+  height:100vh;
+  size:100px;
+  gap:10px
+}
+
+.button{
+  background-color: green; 
+  color: white;   
+  padding: 10px 20px;  
+  border:none;
+  border-radius:10px ;
+  cursor:pointer  
+}
+
+.button:hover{
+  background-color:violet
+}
+
+.display{
+  display :flex;
+  justify-content:center;
+  align-items:center;
+}
