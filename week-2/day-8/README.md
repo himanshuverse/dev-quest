@@ -1,0 +1,1 @@
+useEffect is a React Hook used when you want to run some code after React renders your component.
